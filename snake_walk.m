@@ -1,4 +1,5 @@
-function [x,y]=snake_walk(L) %Función de ejercicio 2
+function [x,y]=snake_walk(L) 
+
 
 %% _____ CONSTANTES Y DEF. INICIALES _____ 
 
